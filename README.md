@@ -4,10 +4,9 @@
 
 # Hi, I'm Gil! 👋
 
-![Time19's Stats](https://github-readme-stats.vercel.app/api?username=Time19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ## 🚀 About Me
 
-- 🔭 I'm a comp sci student currently in the 3. semester @bfh 
+- 🔭 I'm a comp sci student currently in the 4. semester @bfh 
 - 🌱 Interested in all kind of curious stuff
 - 🎮 I like to play videogames
 - 🏃🏻‍♀️ or i'll go for a run
