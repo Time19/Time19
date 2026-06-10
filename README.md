@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm a comp sci student currently in the 4. semester @bfh 
+- 🔭 I'm a comp sci student currently in the 6. semester @bfh 
 - 🌱 Interested in all kind of curious stuff
 - 🎮 I like to play videogames
 - 🏃🏻‍♀️ or i'll go for a run
